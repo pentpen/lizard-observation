@@ -1,2 +1,2 @@
 # lizard-observation
-* Project for observate my lizards using Rasp Pi and webcam.
+* Repository for observe my reptiles using Raspberry Pi and webcam.
